@@ -1,0 +1,4 @@
+#program to convert hours into mintues
+h=int(input("enter hours"))
+min=h*60
+print(min)
