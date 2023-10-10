@@ -1,0 +1,7 @@
+s1=int(input("enter s1 marks"))
+s2=int(input("enter s2 marks"))
+s3=int(input("enter s3 marks"))
+tot=s1+s2+s3
+print(tot)
+avg=tot/2
+print(avg)
