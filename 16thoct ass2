@@ -1,0 +1,6 @@
+#write a program to print n to 10 numbers
+n=int(input("enter number:"))
+i=n
+while(i<=10):
+    print(i)
+    i=i-1
